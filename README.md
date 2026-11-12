@@ -31,9 +31,11 @@ Status: Open to Data Analyst Internships & Full-Time Roles
 ---
 
 ### 🌟 What I Bring to the Table
-* 🔍 **Data Cleaning & Transformation:** Messy डेटा को साफ़ और स्ट्रक्चर्ड बनाना ताकि सही विश्लेषण हो सके।
-* ⚡ **SQL Querying:** बड़े डेटाबेस से ज़रूरी बिज़नेस इनसाइट्स निकालने के लिए तेज़ और सटीक क्वेरीज़ लिखना।
-* 📊 **Interactive Dashboards:** मैनेजमेंट के लिए आसान और आकर्षक विज़ुअल रिपोर्ट्स तैयार करना।
+* 🔍 **Data Cleaning & Transformation** 
+* ⚡ **SQL Querying** 
+* 📊 **Interactive Dashboards**
+* 🧭 **Business Insights & KPI Analysis**
+
 
 ---
 
