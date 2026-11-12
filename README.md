@@ -1,50 +1,34 @@
-<!-- Colorful Animated Header Banner -->
-<img src="https://vercel.app|%20SQL%20•%20Python%20•%20Power%20BI&descAlignY=55" width="100%" />
-
 <div align="center">
-  <h3>🚀 Turning raw data into meaningful business insights!</h3>
+  <img src="./banner.gif" width="100%" alt="Data Analyst Banner" />
+  <h1>👋 Hi there! I'm Shrishti Rana</h1>
+  <h3><code>Aspiring Data Analyst</code> | <code>SQL</code> • <code>Python</code> • <code>Power BI</code> • <code>Excel</code></h3>
+  <p><i>🚀 Turning raw data into meaningful business insights!</i></p>
 </div>
-
-<!-- Coder GIF -->
-<p align="center">
-  <img src="https://githubusercontent.com" width="420" alt="Coder GIF" />
-</p>
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-| Data & ML | Programming | Visualization | Tools |
-| :---: | :---: | :---: | :---: |
-| <img src="https://githubusercontent.com" width="32" height="32"/><br>**Pandas** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**Python** | 📊<br>**Power BI** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**Git** |
-| <img src="https://githubusercontent.com" width="32" height="32"/><br>**NumPy** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**SQL** | 📈<br>**Tableau** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**Jupyter** |
-| 🧠<br>**Machine Learning** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**R** | 📗<br>**Excel** | <img src="https://githubusercontent.com" width="32" height="32"/><br>**VS Code** |
+| 📊 Data & Analytics | 💻 Programming & DB | 📈 Visualization | 🧰 Tools & Workflow |
+| :--- | :--- | :--- | :--- |
+| 🐼 **Pandas** *(Data Cleaning)* | 🐍 **Python** *(EDA & Scripting)* | 📊 **Power BI** *(DAX & Dashboards)* | 🐙 **Git & GitHub** |
+| 🔢 **NumPy** *(Numerical Ops)* | 🗄️ **SQL** *(MySQL / PostgreSQL)* | 📉 **Tableau** *(Visual Storytelling)* | 📓 **Jupyter Notebook** |
+| 🤖 **Scikit-Learn** *(ML Basics)* | 📊 **R Programming** | 📗 **MS Excel** *(Pivot, XLOOKUP)* | 💻 **VS Code** |
 
 ---
 
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://demolab.com" alt="Shrishti's GitHub Streak" />
-</p>
+### 📌 Featured Data Analytics Focus Areas
+* **🔍 Exploratory Data Analysis (EDA):** Cleaning messy datasets, handling missing values, and uncovering hidden patterns.
+* **⚡ SQL Data Extraction:** Writing optimized queries using Joins, CTEs, Subqueries, and Window Functions.
+* **🎨 Interactive Dashboards:** Designing executive-level KPI reports in Power BI and Excel for faster business decisions.
 
 ---
 
 ### 🔗 Connect With Me
+* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* 📧 **Email:** `your-email@gmail.com`
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://githubusercontent.com" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://githubusercontent.com" width="40" height="40" alt="Gmail" />
-  </a>
-</p>
-
+---
 <div align="center">
-  <h4>✨ <i>Let's turn data into meaningful insights together!</i></h4>
+  <b>✨ Let's turn data into meaningful insights together! ✨</b>
 </div>
-
-<!-- Colorful Wave Footer -->
-<img src="https://vercel.app" width="100%" />
