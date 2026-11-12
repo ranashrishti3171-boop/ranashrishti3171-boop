@@ -43,7 +43,6 @@ Status: Open to Data Analyst Internships & Full-Time Roles
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrishti-rana-58517b2a7"><b>🟦 LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:ranashrishti3171@gmail.com"><b>🟥 Gmail</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 ---
 
