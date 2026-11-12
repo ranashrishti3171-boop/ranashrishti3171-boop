@@ -41,14 +41,15 @@ Status: Open to Data Analyst Internships & Full-Time Roles
 
 ### 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="www.linkedin.com/in/shrishti-rana-58517b2a7" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ranashrishti3171"gamil.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+</p>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp;•&nbsp; **📧 Email:** `your-email@gmail.com` &nbsp;•&nbsp; **📍 Location:** `Delhi, India`
-
-</div>
-
----
-
-<div align="center">
-  <h3>✨ <i>"Without data, you're just another person with an opinion."</i> ✨</h3>
-</div>
