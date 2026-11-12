@@ -1,59 +1,52 @@
-<!-- Colorful Animated Wave Banner -->
-<img src="https://vercel.app|%20SQL%20•%20Python%20•%20Power%20BI%20•%20Excel&descAlignY=58" width="100%" />
+<div align="center">
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+# 🌸✨ Hi there! I'm Shrishti Rana ✨🌸
+### 🎯 `Data Analyst` | `SQL` • `Python` • `Power BI` • `Excel` • `Tableau`
+*🚀 Turning raw data into clear, colorful, and actionable business insights!*
 
-<!-- Coder GIF -->
-<p align="center">
-  <img src="https://giphy.com" width="400" alt="Coder GIF" />
-</p>
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+```yaml
+Role: Aspiring Data Analyst
+Location: Delhi, India
+Core_Skills: [SQL, Python, Power BI, Tableau, Advanced Excel]
+Focus: Data Cleaning, Exploratory Data Analysis (EDA) & KPI Dashboards
+Status: Open to Data Analyst Internships & Full-Time Roles
+```
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
 | 📊 Data Analysis | 💻 Programming & DB | 📈 Visualization | 🧰 Tools |
-| :---: | :---: | :---: | :---: |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
+| :--- | :--- | :--- | :--- |
+| 🐼 **Pandas** *(Data Cleaning)* | 🐍 **Python** *(EDA & Scripting)* | 📊 **Power BI** *(DAX & Reports)* | 🐙 **Git & GitHub** |
+| 🔢 **NumPy** *(Calculations)* | 🗄️ **SQL** *(Joins, CTEs, Queries)* | 📉 **Tableau** *(Visual Stories)* | 📓 **Jupyter Notebook** |
+| 🧹 **Data Wrangling** | 📗 **MS Excel** *(Pivot, XLOOKUP)* | 🎨 **KPI Dashboards** | 💻 **VS Code** |
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
+### 🌟 What I Bring to the Table
+* 🔍 **Data Cleaning & Transformation:** Messy डेटा को साफ़ और स्ट्रक्चर्ड बनाना ताकि सही विश्लेषण हो सके।
+* ⚡ **SQL Querying:** बड़े डेटाबेस से ज़रूरी बिज़नेस इनसाइट्स निकालने के लिए तेज़ और सटीक क्वेरीज़ लिखना।
+* 📊 **Interactive Dashboards:** मैनेजमेंट के लिए आसान और आकर्षक विज़ुअल रिपोर्ट्स तैयार करना।
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
-
 <div align="center">
-  <h4>✨ <i>Let's turn data into meaningful insights together!</i> ✨</h4>
+
+[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp;•&nbsp; **📧 Email:** `your-email@gmail.com` &nbsp;•&nbsp; **📍 Location:** `Delhi, India`
+
 </div>
 
-<!-- Colorful Animated Wave Footer -->
-<img src="https://vercel.app" width="100%" />
+---
+
+<div align="center">
+  <h3>✨ <i>"Without data, you're just another person with an opinion."</i> ✨</h3>
+</div>
